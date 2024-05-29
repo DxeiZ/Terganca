@@ -1,0 +1,9 @@
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\bin\Debug\ScreenCapture.exe.config
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\bin\Debug\ScreenCapture.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\obj\Debug\ScreenCapture.csproj.AssemblyReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\obj\Debug\ScreenCapture.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ScreenCapture\obj\Debug\ScreenCapture.pdb
