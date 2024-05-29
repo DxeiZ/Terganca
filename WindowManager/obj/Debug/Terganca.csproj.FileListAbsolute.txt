@@ -1,0 +1,9 @@
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\bin\Debug\Terganca.exe.config
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\bin\Debug\Terganca.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\bin\Debug\Terganca.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\obj\Debug\Terganca.csproj.AssemblyReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\obj\Debug\Terganca.Properties.Resources.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\obj\Debug\Terganca.csproj.GenerateResource.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\obj\Debug\Terganca.csproj.CoreCompileInputs.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\obj\Debug\Terganca.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\obj\Debug\Terganca.pdb
