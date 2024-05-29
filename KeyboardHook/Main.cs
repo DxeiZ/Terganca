@@ -16,6 +16,7 @@ namespace KeyboardHook
             InitializeComponent();
             _keyboardHook = new KeyboardHookFunction();
             _keyboardHook.KeyPressed += KeyboardHook_KeyPressed;
+            btnStop.Enabled = false;
         }
 
         private void InitializeComponent()
@@ -34,6 +35,7 @@ namespace KeyboardHook
             txtKeyLogger.Name = "txtKeyLogger";
             txtKeyLogger.Size = new Size(360, 199);
             txtKeyLogger.TabIndex = 0;
+            txtKeyLogger.ReadOnly = true;
 
             // 
             // btnStart
@@ -76,11 +78,15 @@ namespace KeyboardHook
         private void BtnStart_Click(object sender, EventArgs e)
         {
             _keyboardHook.HookKeyboard();
+            btnStart.Enabled = false;
+            btnStop.Enabled = true;
         }
 
         private void BtnStop_Click(object sender, EventArgs e)
         {
             _keyboardHook.UnhookKeyboard();
+            btnStart.Enabled = true;
+            btnStop.Enabled = false;
         }
 
         private void KeyboardHook_KeyPressed(object sender, Keys e)

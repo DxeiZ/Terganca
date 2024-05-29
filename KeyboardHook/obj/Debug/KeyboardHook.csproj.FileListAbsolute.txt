@@ -7,3 +7,4 @@ C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\KeyboardHook\obj\Debu
 C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\KeyboardHook\obj\Debug\KeyboardHook.csproj.CoreCompileInputs.cache
 C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\KeyboardHook\obj\Debug\KeyboardHook.exe
 C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\KeyboardHook\obj\Debug\KeyboardHook.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\KeyboardHook\obj\Debug\KeyboardHook.Main.resources
