@@ -1,0 +1,10 @@
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.csproj.AssemblyReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.Properties.Resources.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.csproj.GenerateResource.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\bin\Debug\ColorPaletteGenerator.exe.config
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\bin\Debug\ColorPaletteGenerator.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\bin\Debug\ColorPaletteGenerator.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\Terganca\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.Main.resources
