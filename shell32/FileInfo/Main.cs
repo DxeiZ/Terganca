@@ -31,7 +31,7 @@ namespace FileInfo
             btnSelectFile.Name = "btnSelectFile";
             btnSelectFile.Size = new System.Drawing.Size(75, 23);
             btnSelectFile.TabIndex = 0;
-            btnSelectFile.Text = "Select File";
+            btnSelectFile.Text = "Dosya Seçiniz";
             btnSelectFile.UseVisualStyleBackColor = true;
             btnSelectFile.Click += new EventHandler(BtnSelectFile_Click);
 
@@ -54,7 +54,7 @@ namespace FileInfo
 
             // Add columns to the listView
             listView.Columns.Add("Property", 150);
-            listView.Columns.Add("Value", 300);
+            listView.Columns.Add("Değer", 300);
 
             // 
             // MainForm
@@ -89,16 +89,16 @@ namespace FileInfo
 
             // Get the file info
             FileInfo fileInfo = new FileInfo(filePath);
-            AddPropertyToListView("File Path", fileInfo.FullName);
-            AddPropertyToListView("Size", fileInfo.Length.ToString() + " bytes");
-            AddPropertyToListView("Creation Time", fileInfo.CreationTime.ToString());
-            AddPropertyToListView("Last Access Time", fileInfo.LastAccessTime.ToString());
-            AddPropertyToListView("Last Write Time", fileInfo.LastWriteTime.ToString());
+            AddPropertyToListView("Dosya Yolu", fileInfo.FullName);
+            AddPropertyToListView("Boyut", fileInfo.Length.ToString() + " byte");
+            AddPropertyToListView("Yaratılış Zamanı", fileInfo.CreationTime.ToString());
+            AddPropertyToListView("Son Erişim Zamanı", fileInfo.LastAccessTime.ToString());
+            AddPropertyToListView("Son Yazma Zamanı", fileInfo.LastWriteTime.ToString());
 
             // Get the shell info
             Shell32.SHFILEINFO shinfo = new Shell32.SHFILEINFO();
             Shell32.SHGetFileInfo(filePath, 0, ref shinfo, (uint)Marshal.SizeOf(shinfo), Shell32.SHGFI_TYPENAME);
-            AddPropertyToListView("Type", shinfo.szTypeName);
+            AddPropertyToListView("Tür", shinfo.szTypeName);
         }
 
         private void AddPropertyToListView(string property, string value)
