@@ -1,9 +1,0 @@
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\bin\Debug\CursorTracker.exe.config
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\bin\Debug\CursorTracker.exe
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\bin\Debug\CursorTracker.pdb
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\obj\Debug\CursorTracker.csproj.AssemblyReference.cache
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\obj\Debug\CursorTracker.Properties.Resources.resources
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\obj\Debug\CursorTracker.csproj.GenerateResource.cache
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\obj\Debug\CursorTracker.csproj.CoreCompileInputs.cache
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\obj\Debug\CursorTracker.exe
-C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\CursorTracker\obj\Debug\CursorTracker.pdb
